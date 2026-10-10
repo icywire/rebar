@@ -1,0 +1,6 @@
+upstream/
+out/
+loader/*.o
+loader/lib/*.o
+loader/*.so
+loader/bootx64.efi

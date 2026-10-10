@@ -1,0 +1,61 @@
+name: Build bootx64.efi (loader/)
+
+on:
+  push:
+    branches: [ rebar-diag ]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Docker build bootx64.efi
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Host tests (gcc + python3, no gnu-efi)
+        run: sh loader/tests/host/run.sh
+
+      - name: Build Docker image
+        run: docker build -t t2gmux-build loader
+
+      - name: Compile bootx64.efi
+        run: |
+          docker run --rm \
+            -v "${{ github.workspace }}/loader:/build" \
+            -w /build \
+            t2gmux-build \
+            make clean all
+
+      - name: Verify artifact
+        run: |
+          set -e
+          test -f loader/bootx64.efi
+          ls -la loader/bootx64.efi
+          file loader/bootx64.efi
+          file loader/bootx64.efi | grep -qiE 'PE32\+|EFI|executable'
+
+      - name: Compile SSDT_REBAR.aml
+        run: |
+          set -e
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq acpica-tools
+          mkdir -p dist
+          iasl -p dist/SSDT_REBAR tools/SSDT_REBAR.asl
+          cp loader/bootx64.efi dist/
+          ls -la dist
+
+      - name: Upload bootx64.efi + SSDT_REBAR.aml
+        uses: actions/upload-artifact@v4
+        with:
+          name: t2gmux-rebar
+          path: |
+            dist/bootx64.efi
+            dist/SSDT_REBAR.aml
+          if-no-files-found: error
+          retention-days: 30
