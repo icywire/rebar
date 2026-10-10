@@ -1,0 +1,2079 @@
+Microsoft PnP Utility
+
+Instance ID:                DISPLAY\DELA198\7&e17513f&5&UID261
+Device Description:         Dell S2721QS(DisplayPort)
+Class Name:                 Monitor
+Class GUID:                 {4d36e96e-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Dell Inc.
+Status:                     Started
+Driver Name:                oem43.inf
+
+Instance ID:                PCI\VEN_8086&DEV_1909&SUBSYS_72708086&REV_07\3&11583659&0&0A
+Device Description:         Intel(R) Xeon(R) E3 - 1200/1500 v5/6th Gen Intel(R) Core(TM) PCIe Controller (x4) - 1909
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          INTEL
+Status:                     Started
+Driver Name:                oem60.inf
+IO Resources:               0x0000000000009000 - 0x000000000000CFFF
+IRQ Resources:              0xFFFFFFFC (-4)
+Memory Resources:           0x000000008FA00000 - 0x000000009DBFFFFF
+                            0x00000000CF700000 - 0x00000000DD6FFFFF
+
+Instance ID:                SWD\PRINTENUM\{DAA760FF-3863-4D3F-AE40-445CDA6D07A3}
+Device Description:         HP_P1109w_bonjour
+Class Name:                 PrintQueue
+Class GUID:                 {1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                printqueue.inf
+
+Instance ID:                ACPI\PNP0103\4&e914ef6&0
+Device Description:         Czasomierz zdarzeniowy wysokiej precyzji
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Stopped
+Driver Name:                machine.inf
+IRQ Resources:              0x00000000 (00)
+                            0x00000008 (08)
+Memory Resources:           0x00000000FED00000 - 0x00000000FED03FFF
+
+Instance ID:                ACPI\PNP0C02\1
+Device Description:         Zasoby p³yty g³ównej
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Stopped
+Driver Name:                machine.inf
+Memory Resources:           0x00000000FED10000 - 0x00000000FED17FFF
+                            0x00000000FED18000 - 0x00000000FED18FFF
+                            0x00000000FED19000 - 0x00000000FED19FFF
+                            0x00000000E0000000 - 0x00000000EFFFFFFF
+                            0x00000000FED20000 - 0x00000000FED3FFFF
+                            0x00000000FED90000 - 0x00000000FED93FFF
+                            0x00000000FED45000 - 0x00000000FED8FFFF
+                            0x00000000FF000000 - 0x00000000FFFFFFFF
+                            0x00000000FEE00000 - 0x00000000FEEFFFFF
+                            0x0000000040000000 - 0x00000000403FFFFF
+                            0x00000000FD000000 - 0x00000000FDFFFFFF
+                            0x00000000FE010000 - 0x00000000FE010FFF
+                            0x00000000FE036000 - 0x00000000FE0AFFFF
+                            0x00000000FC800000 - 0x00000000FCFFFFFF
+                            0x00000000FE100000 - 0x00000000FE1FFFFF
+                            0x00000000FE200000 - 0x00000000FE3FFFFF
+
+Instance ID:                ACPI\PNP0C02\2
+Device Description:         Zasoby p³yty g³ównej
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Stopped
+Driver Name:                machine.inf
+IO Resources:               0x000000000000002E - 0x000000000000002F
+                            0x000000000000004E - 0x000000000000004F
+                            0x0000000000000061 - 0x0000000000000061
+                            0x0000000000000063 - 0x0000000000000063
+                            0x0000000000000065 - 0x0000000000000065
+                            0x0000000000000067 - 0x0000000000000067
+                            0x0000000000000080 - 0x0000000000000080
+                            0x0000000000000092 - 0x0000000000000092
+                            0x00000000000000B2 - 0x00000000000000B3
+                            0x000000000000FFFF - 0x000000000000FFFF
+                            0x0000000000001800 - 0x00000000000018FE
+                            0x0000000000000800 - 0x000000000000087F
+
+Instance ID:                PCI\VEN_8086&DEV_15EC&SUBSYS_00008086&REV_06\9156D489E800AA0000
+Device Description:         Intel(R) USB 3.1 eXtensible Host Controller - 1.10 (Microsoft)
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          Rodzajowy kontroler hosta USB xHCI
+Status:                     Started
+Driver Name:                usbxhci.inf
+IRQ Resources:              0xFFFFFFD0 (-48)
+Memory Resources:           0x00000000818F0000 - 0x00000000818FFFFF
+
+Instance ID:                STORAGE\Volume\{071ab7b3-7923-11f1-9527-806e6f6e6963}#0000003728400000
+Device Description:         Wolumin
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                SW\{96E080C7-143C-11D1-B40F-00A0C9223196}\{3C0D501A-140B-11D1-B40F-00A0C9223196}
+Device Description:         Serwer proxy us³ugi Microsoft Streaming
+Class Name:                 MEDIA
+Class GUID:                 {4d36e96c-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                ksfilter.inf
+
+Instance ID:                ACPI\APP0001\4&e914ef6&0
+Device Description:         Apple SMC device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Stopped
+Driver Name:                oem76.inf
+IO Resources:               0x0000000000000300 - 0x000000000000031F
+IRQ Resources:              0x00000006 (06)
+Memory Resources:           0x00000000FE0B0000 - 0x00000000FE0BFFFF
+
+Instance ID:                ACPI\PNP0C09\0
+Device Description:         Kontroler osadzony zgodny ze standardem Microsoft ACPI
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                machine.inf
+IO Resources:               0x0000000000000062 - 0x0000000000000062
+                            0x0000000000000066 - 0x0000000000000066
+
+Instance ID:                PCI\VEN_8086&DEV_A338&SUBSYS_72708086&REV_F0\3&11583659&0&E0
+Device Description:         Port g³ówny PCI Express
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                pci.inf
+IRQ Resources:              0xFFFFFFFA (-6)
+Memory Resources:           0x0000000081000000 - 0x00000000814FFFFF
+
+Instance ID:                HID\VID_1C4F&PID_0043&MI_00\7&24a2e4a&0&0000
+Device Description:         Urz¹dzenie klawiatury HID
+Class Name:                 Keyboard
+Class GUID:                 {4d36e96b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Klawiatury standardowe)
+Status:                     Started
+Driver Name:                keyboard.inf
+
+Instance ID:                ACPI\PNP0C0A\0
+Device Description:         Bateria Microsoft o metodzie kontroli zgodnej z ACPI
+Class Name:                 Battery
+Class GUID:                 {72631e54-78a4-11d0-bcf7-00aa00b7b32a}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                cmbatt.inf
+
+Instance ID:                SWD\DRIVERENUM\{0782725c-53e5-4667-ac1b-65061f3c4dfa}#DolbyAPO_DAX3HSA&5&25d0aea&0
+Device Description:         DolbyAPO Software Device (HSA)
+Class Name:                 SoftwareComponent
+Class GUID:                 {5c4c3332-344d-483c-8739-259e934c9cc8}
+Manufacturer Name:          Dolby
+Status:                     Started
+Driver Name:                oem17.inf
+
+Instance ID:                ACPI\APPBC01\2&daba3ff&0
+Device Description:         System Device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Stopped
+Driver Name:                oem76.inf
+
+Instance ID:                PCI\VEN_8086&DEV_A328&SUBSYS_72708086&REV_10\3&11583659&0&F0
+Device Description:         Intel(R) Serial IO UART Host Controller - A328
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Intel Corporation
+Status:                     Started
+Driver Name:                oem61.inf
+IRQ Resources:              0x00000014 (20)
+Memory Resources:           0x0000007FFFFEF000 - 0x0000007FFFFEFFFF
+
+Instance ID:                PCI\VEN_14E4&DEV_4464&SUBSYS_07BF106B&REV_04\4C07C2FFFF42F8FF00
+Device Description:         Broadcom 802.11ac Network Adapter
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Broadcom
+Status:                     Started
+Driver Name:                oem23.inf
+IRQ Resources:              0xFFFFFFCE (-50)
+Memory Resources:           0x00000000814F8000 - 0x00000000814FFFFF
+                            0x0000000081000000 - 0x00000000813FFFFF
+
+Instance ID:                SWD\PRINTENUM\PrintQueues
+Device Description:         G³ówna kolejka wydruku
+Class Name:                 PrintQueue
+Class GUID:                 {1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                printqueue.inf
+
+Instance ID:                ROOT\volmgr\0000
+Device Description:         Mened¿er woluminów
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volmgr.inf
+
+Instance ID:                USB\VID_046D&PID_C092&LAMPARRAY\6&92d0d36&0&206D37505546_Slot00
+Device Description:         G102 LIGHTSYNC
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Started
+
+Instance ID:                HID\VID_1C4F&PID_0043&MI_01&Col02\7&1a0dba8f&0&0001
+Device Description:         Kontroler systemu zgodny z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                USB\VID_05AC&PID_0340&MI_00\7&383bfd12&0&0000
+Device Description:         Urz¹dzenie wejœciowe USB
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                HID\VID_05AC&PID_8262\7&794706e&0&0000
+Device Description:         Czujnik œwiat³a otoczenia HID
+Class Name:                 Sensor
+Class GUID:                 {5175d334-c371-4806-b3ba-71fd53c9258d}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                sensorshidclassdriver.inf
+
+Instance ID:                HID\VID_05AC&PID_0340&MI_04\8&df157e&0&0000
+Device Description:         Urz¹dzenie zdefiniowane przez dostawcê zgodne z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                ROOT\BasicDisplay\0000
+Device Description:         Podstawowy sterownik ekranu firmy Microsoft
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe typy ekranu)
+Status:                     Started
+Driver Name:                basicdisplay.inf
+
+Instance ID:                SWD\DRIVERENUM\AMDWIN&7&e17513f&5
+Device Description:         AMD-Windows Support Components
+Class Name:                 SoftwareComponent
+Class GUID:                 {5c4c3332-344d-483c-8739-259e934c9cc8}
+Manufacturer Name:          Advanced Micro Devices, Inc.
+Status:                     Started
+Driver Name:                oem42.inf
+
+Instance ID:                ACPI\PNP0C0E\2&daba3ff&0
+Device Description:         Przycisk uœpienia ACPI
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                SWD\PRINTENUM\{7B787C15-9508-4A11-A695-7700B1E1C3B0}
+Device Description:         Microsoft Print to PDF
+Class Name:                 PrintQueue
+Class GUID:                 {1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                printqueue.inf
+
+Instance ID:                ROOT\AMDXE\0000
+Device Description:         AMD Controller Emulation
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          AMD
+Status:                     Started
+Driver Name:                oem29.inf
+
+Instance ID:                BTHENUM\{02030302-1d19-415f-86f2-22a2106a0a77}_VID&0001004c_PID&7406\7&200747e8&0&84AB1AE027B7_C00000000
+Device Description:         Wireless iAP v2
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Started
+
+Instance ID:                USB\VID_05AC&PID_8104\000000000000
+Device Description:         Apple Internal Display Lid Sensor
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          Apple Inc.
+Status:                     Stopped
+Driver Name:                oem77.inf
+
+Instance ID:                HDAUDIO\FUNC_01&VEN_1002&DEV_AA01&SUBSYS_00AA0100&REV_1007\7&270cfa4c&1&0001
+Device Description:         AMD High Definition Audio Device
+Class Name:                 MEDIA
+Class GUID:                 {4d36e96c-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Advanced Micro Devices
+Status:                     Started
+Driver Name:                oem47.inf
+
+Instance ID:                HID\HID_DEVICE_SYSTEM_VHF\7&9978241&0&0000
+Device Description:         Urz¹dzenie zgodne z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                ROOT\VID\0000
+Device Description:         Sterownik infrastruktury wirtualizacji funkcji Microsoft Hyper-V
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                wvid.inf
+
+Instance ID:                ROOT\CompositeBus\0000
+Device Description:         Modu³ wyliczaj¹cy magistrali kompozytowej
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                compositebus.inf
+
+Instance ID:                ROOT\vdrvroot\0000
+Device Description:         Modu³ wyliczaj¹cy dysku wirtualnego firmy Microsoft
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                vdrvroot.inf
+
+Instance ID:                ACPI\APPBC00\2&daba3ff&0
+Device Description:         System Device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Stopped
+Driver Name:                oem76.inf
+
+Instance ID:                ROOT\KeyManager\1987
+Device Description:         KeyManager Device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Started
+Driver Name:                oem54.inf
+
+Instance ID:                STORAGE\Volume\{071ab7b3-7923-11f1-9527-806e6f6e6963}#0000001E58600000
+Device Description:         Wolumin
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                PCI\VEN_8086&DEV_A36D&SUBSYS_72708086&REV_10\3&11583659&0&A0
+Device Description:         Intel(R) USB 3.1 eXtensible Host Controller - 1.10 (Microsoft)
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          Rodzajowy kontroler hosta USB xHCI
+Status:                     Started
+Driver Name:                usbxhci.inf
+IRQ Resources:              0xFFFFFFCF (-49)
+Memory Resources:           0x0000007FFFFF0000 - 0x0000007FFFFFFFFF
+
+Instance ID:                STORAGE\Volume\{071ab7b3-7923-11f1-9527-806e6f6e6963}#000000375DC00000
+Device Description:         Wolumin
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                ACPI\ACPI0003\2&daba3ff&0
+Device Description:         Zasilacz Microsoft
+Class Name:                 Battery
+Class GUID:                 {72631e54-78a4-11d0-bcf7-00aa00b7b32a}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                cmbatt.inf
+
+Instance ID:                ROOT\spaceport\0000
+Device Description:         Kontroler miejsc do magazynowania firmy Microsoft
+Class Name:                 SCSIAdapter
+Class GUID:                 {4d36e97b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                spaceport.inf
+
+Instance ID:                SWD\DRIVERENUM\{0782725c-53e5-4667-ac1b-65061f3c4dfa}#DolbyAPO_DAX3APOSVC&5&25d0aea&0
+Device Description:         DolbyAPO SWC Device
+Class Name:                 SoftwareComponent
+Class GUID:                 {5c4c3332-344d-483c-8739-259e934c9cc8}
+Manufacturer Name:          Dolby
+Status:                     Started
+Driver Name:                oem16.inf
+
+Instance ID:                HID\VID_046D&PID_C092&MI_01&Col05\7&51aef33&0&0004
+Device Description:         Urz¹dzenie zdefiniowane przez dostawcê zgodne z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                ACPI\GenuineIntel_-_Intel64_Family_6_Model_158_-_Intel(R)_Core(TM)_i7-9750H_CPU_@_2.60GHz\_1
+Device Description:         Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          Intel
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\GenuineIntel_-_Intel64_Family_6_Model_158_-_Intel(R)_Core(TM)_i7-9750H_CPU_@_2.60GHz\_2
+Device Description:         Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          Intel
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\GenuineIntel_-_Intel64_Family_6_Model_158_-_Intel(R)_Core(TM)_i7-9750H_CPU_@_2.60GHz\_3
+Device Description:         Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          Intel
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\GenuineIntel_-_Intel64_Family_6_Model_158_-_Intel(R)_Core(TM)_i7-9750H_CPU_@_2.60GHz\_4
+Device Description:         Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          Intel
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\GenuineIntel_-_Intel64_Family_6_Model_158_-_Intel(R)_Core(TM)_i7-9750H_CPU_@_2.60GHz\_5
+Device Description:         Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          Intel
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\GenuineIntel_-_Intel64_Family_6_Model_158_-_Intel(R)_Core(TM)_i7-9750H_CPU_@_2.60GHz\_6
+Device Description:         Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          Intel
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\GenuineIntel_-_Intel64_Family_6_Model_158_-_Intel(R)_Core(TM)_i7-9750H_CPU_@_2.60GHz\_7
+Device Description:         Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          Intel
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\GenuineIntel_-_Intel64_Family_6_Model_158_-_Intel(R)_Core(TM)_i7-9750H_CPU_@_2.60GHz\_8
+Device Description:         Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          Intel
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\GenuineIntel_-_Intel64_Family_6_Model_158_-_Intel(R)_Core(TM)_i7-9750H_CPU_@_2.60GHz\_9
+Device Description:         Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          Intel
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\GenuineIntel_-_Intel64_Family_6_Model_158_-_Intel(R)_Core(TM)_i7-9750H_CPU_@_2.60GHz\_a
+Device Description:         Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          Intel
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\GenuineIntel_-_Intel64_Family_6_Model_158_-_Intel(R)_Core(TM)_i7-9750H_CPU_@_2.60GHz\_b
+Device Description:         Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          Intel
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                ACPI\GenuineIntel_-_Intel64_Family_6_Model_158_-_Intel(R)_Core(TM)_i7-9750H_CPU_@_2.60GHz\_c
+Device Description:         Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Class Name:                 Processor
+Class GUID:                 {50127dc3-0f36-415e-a6cc-4cb3be910b65}
+Manufacturer Name:          Intel
+Status:                     Started
+Driver Name:                cpu.inf
+
+Instance ID:                PCI\VEN_1002&DEV_7340&SUBSYS_020F106B&REV_40\6&20fdcdfd&0&00000008
+Device Description:         AMD Radeon Pro 5500M
+Class Name:                 Display
+Class GUID:                 {4d36e968-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Advanced Micro Devices, Inc.
+Status:                     Started
+Driver Name:                oem8.inf
+IO Resources:               0x0000000000003000 - 0x00000000000030FF
+IRQ Resources:              0xFFFFFFD3 (-45)
+Memory Resources:           0x00000000B0000000 - 0x00000000BFFFFFFF
+                            0x00000000C0000000 - 0x00000000C01FFFFF
+                            0x0000000081500000 - 0x000000008157FFFF
+
+Instance ID:                ACPI\PNP0000\4&e914ef6&0
+Device Description:         Programowalny kontroler przerwañ
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Stopped
+Driver Name:                machine.inf
+IO Resources:               0x0000000000000020 - 0x0000000000000021
+                            0x0000000000000024 - 0x0000000000000025
+                            0x0000000000000028 - 0x0000000000000029
+                            0x000000000000002C - 0x000000000000002D
+                            0x0000000000000030 - 0x0000000000000031
+                            0x0000000000000034 - 0x0000000000000035
+                            0x0000000000000038 - 0x0000000000000039
+                            0x000000000000003C - 0x000000000000003D
+                            0x00000000000000A0 - 0x00000000000000A1
+                            0x00000000000000A4 - 0x00000000000000A5
+                            0x00000000000000A8 - 0x00000000000000A9
+                            0x00000000000000AC - 0x00000000000000AD
+                            0x00000000000000B0 - 0x00000000000000B1
+                            0x00000000000000B4 - 0x00000000000000B5
+                            0x00000000000000B8 - 0x00000000000000B9
+                            0x00000000000000BC - 0x00000000000000BD
+                            0x00000000000004D0 - 0x00000000000004D1
+
+Instance ID:                HID\VID_046D&PID_C092&MI_01&Col04\7&51aef33&0&0003
+Device Description:         Urz¹dzenie zdefiniowane przez dostawcê zgodne z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                ROOT\KDNIC\0000
+Device Description:         Microsoft Kernel Debug Network Adapter
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                kdnic.inf
+
+Instance ID:                USB\VID_05E3&PID_0F01\0001
+Device Description:         Billboard Device
+Class Name:                 USBDevice
+Class GUID:                 {88bae032-5a81-49f0-bc3d-a4ff138216d6}
+Manufacturer Name:          Urz¹dzenie WinUSB
+Status:                     Started
+Driver Name:                winusb.inf
+
+Instance ID:                PCI\VEN_8086&DEV_15EB&SUBSYS_00008086&REV_06\9156D489E800AA0000
+Device Description:         Thunderbolt(TM) Controller - 15EB
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Intel(R) Corporation
+Status:                     Started
+Driver Name:                oem6.inf
+IRQ Resources:              0xFFFFFFE2 (-30)
+                            0xFFFFFFE1 (-31)
+                            0xFFFFFFE0 (-32)
+                            0xFFFFFFDF (-33)
+                            0xFFFFFFDE (-34)
+                            0xFFFFFFDD (-35)
+                            0xFFFFFFDC (-36)
+                            0xFFFFFFDB (-37)
+                            0xFFFFFFDA (-38)
+                            0xFFFFFFD9 (-39)
+                            0xFFFFFFD8 (-40)
+                            0xFFFFFFD7 (-41)
+                            0xFFFFFFD6 (-42)
+                            0xFFFFFFD5 (-43)
+                            0xFFFFFFD4 (-44)
+                            0xFFFFFFD1 (-47)
+Memory Resources:           0x00000000819C0000 - 0x00000000819FFFFF
+                            0x00000000819BF000 - 0x00000000819BFFFF
+
+Instance ID:                BTH\MS_BTHLE\6&2f7a9130&0&3
+Device Description:         Modu³ wyliczaj¹cy Bluetooth LE firmy Microsoft
+Class Name:                 Bluetooth
+Class GUID:                 {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                bthleenum.inf
+
+Instance ID:                HID\VID_05AC&PID_0340&MI_00\8&34292973&0&0000
+Device Description:         Urz¹dzenie zdefiniowane przez dostawcê zgodne z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                USB\VID_05AC&PID_8102&MI_00\7&1eb4fb73&0&0000
+Device Description:         Urz¹dzenie wejœciowe USB
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                HID\VID_046D&PID_C092&MI_01&Col03\7&51aef33&0&0002
+Device Description:         Kontroler systemu zgodny z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                USB\VID_05AC&PID_0340&MI_01\7&383bfd12&0&0001
+Device Description:         Apple Keyboard Internal USB
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          Apple Inc.
+Status:                     Started
+Driver Name:                oem52.inf
+
+Instance ID:                SWD\DRIVERENUM\AMDOCL&7&e17513f&5
+Device Description:         AMD-OpenCL User Mode Driver
+Class Name:                 SoftwareComponent
+Class GUID:                 {5c4c3332-344d-483c-8739-259e934c9cc8}
+Manufacturer Name:          Advanced Micro Devices, Inc.
+Status:                     Started
+Driver Name:                oem41.inf
+
+Instance ID:                PCI\VEN_1002&DEV_1478&SUBSYS_00000000&REV_40\4&d48ca2c&0&0008
+Device Description:         AMD PCI Express Upstream Switch Port
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                pci.inf
+Extension Driver Names:     oem44.inf
+IO Resources:               0x0000000000003000 - 0x0000000000003FFF
+Memory Resources:           0x0000000081600000 - 0x0000000081603FFF
+                            0x0000000081500000 - 0x00000000815FFFFF
+                            0x00000000B0000000 - 0x00000000C01FFFFF
+
+Instance ID:                HID\VID_046D&PID_C092&MI_01&Col02\7&51aef33&0&0001
+Device Description:         Urz¹dzenie steruj¹ce u¿ytkownika zgodne z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                hidserv.inf
+
+Instance ID:                ACPI\PNP0C0D\2&daba3ff&0
+Device Description:         Pokrywa ACPI
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                HID\VID_046D&PID_C092&MI_01&Col01\7&51aef33&0&0000
+Device Description:         Urz¹dzenie klawiatury HID
+Class Name:                 Keyboard
+Class GUID:                 {4d36e96b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Klawiatury standardowe)
+Status:                     Started
+Driver Name:                keyboard.inf
+
+Instance ID:                BTHLE\Dev_84ab1ae027b7\7&36bc9150&0&84ab1ae027b7
+Device Description:         iPhone (Maciej Tomczak)
+Class Name:                 Bluetooth
+Class GUID:                 {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                bthleenum.inf
+
+Instance ID:                USB\VID_046D&PID_C092\206D37505546
+Device Description:         G102 LIGHTSYNC
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          Logitech
+Status:                     Started
+Driver Name:                oem27.inf
+
+Instance ID:                PCI\VEN_8086&DEV_A340&SUBSYS_72708086&REV_F0\3&11583659&0&D8
+Device Description:         Port g³ówny PCI Express
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                pci.inf
+IRQ Resources:              0xFFFFFFFB (-5)
+Memory Resources:           0x00000000C0400000 - 0x00000000C16FFFFF
+
+Instance ID:                USB\VID_05AC&PID_8514\CC293620007HNW13S
+Device Description:         Urz¹dzenie kompozytowe USB
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standardowy kontroler hosta USB)
+Status:                     Started
+Driver Name:                usb.inf
+
+Instance ID:                STORAGE\Volume\{071ab7b3-7923-11f1-9527-806e6f6e6963}#0000001E57600000
+Device Description:         Wolumin
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                SWD\MMDEVAPI\{0.0.0.00000000}.{b6979bcb-34ab-47b9-87b6-419795a9a83b}
+Device Description:         S³uchawki (Apple Audio Device)
+Class Name:                 AudioEndpoint
+Class GUID:                 {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                audioendpoint.inf
+
+Instance ID:                ROOT\UMBUS\0000
+Device Description:         Modu³ wyliczaj¹cy magistrali g³ównej UMBus
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                umbus.inf
+
+Instance ID:                SWD\MMDEVAPI\{0.0.1.00000000}.{47474a99-44d5-4dbb-9913-42bcff96eca9}
+Device Description:         Headset Microphone (Apple Audio Device)
+Class Name:                 AudioEndpoint
+Class GUID:                 {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                audioendpoint.inf
+
+Instance ID:                ROOT\CAD\0000
+Device Description:         Sterownik wybierania Ÿród³a ³adowania
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                ChargeArbitration.inf
+
+Instance ID:                USB\VID_046D&PID_C092&MI_01\6&92d0d36&0&0001
+Device Description:         Urz¹dzenie wejœciowe USB
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                BTHENUM\{00001000-0000-1000-8000-00805f9b34fb}_VID&0001004c_PID&7406\7&200747e8&0&84AB1AE027B7_C00000000
+Device Description:         Us³uga odnajdywania us³ug
+Class Name:                 Bluetooth
+Class GUID:                 {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                bth.inf
+
+Instance ID:                BTHENUM\{00001801-0000-1000-8000-00805f9b34fb}_VID&0001004c_PID&7406\7&200747e8&0&84AB1AE027B7_C00000000
+Device Description:         GATT
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Started
+
+Instance ID:                SWD\DRIVERENUM\{96bedf2c-18cb-4a15-b821-5e95ed0fea61}#VocaEffectPack&1&136fa792&0
+Device Description:         Voice Clarity
+Class Name:                 AudioProcessingObject
+Class GUID:                 {5989fce8-9cd0-467d-8a6a-5419e31529d4}
+Manufacturer Name:          Microsoft Corporation
+Status:                     Started
+Driver Name:                oem75.inf
+
+Instance ID:                SWD\MSDAS\{ce958e9a-424f-4c88-86f4-11314821e75a}
+Device Description:         Microsoft Device Association Root Enumerator
+Class Name:                 SoftwareDevice
+Class GUID:                 {62f9c741-b25a-46ce-b54c-9bccce08b6f2}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                c_swdevice.inf
+
+Instance ID:                USB\VID_046D&PID_C092&MI_00\6&92d0d36&0&0000
+Device Description:         Urz¹dzenie wejœciowe USB
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                ROOT\ACPI_HAL\0000
+Device Description:         Komputer oparty na architekturze x64 obs³uguj¹cy interfejs ACPI
+Class Name:                 Computer
+Class GUID:                 {4d36e966-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Komputery standardowe)
+Status:                     Started
+Driver Name:                hal.inf
+
+Instance ID:                PCI\VEN_8086&DEV_1905&SUBSYS_72708086&REV_07\3&11583659&0&09
+Device Description:         Intel(R) Xeon(R) E3 - 1200/1500 v5/6th Gen Intel(R) Core(TM) PCIe Controller (x8) - 1905
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          INTEL
+Status:                     Started
+Driver Name:                oem60.inf
+IO Resources:               0x0000000000005000 - 0x0000000000008FFF
+IRQ Resources:              0xFFFFFFFD (-3)
+Memory Resources:           0x0000000081800000 - 0x000000008F9FFFFF
+                            0x00000000C1700000 - 0x00000000CF6FFFFF
+
+Instance ID:                ACPI\PNP0C04\4&e914ef6&0
+Device Description:         Procesor numeryczny
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Stopped
+Driver Name:                machine.inf
+IO Resources:               0x00000000000000F0 - 0x00000000000000F0
+IRQ Resources:              0x0000000D (13)
+
+Instance ID:                PCI\VEN_8086&DEV_A313&SUBSYS_72708086&REV_10\3&11583659&0&F8
+Device Description:         Standardowy mostek ISA PCI
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI\PNP0A08\0
+Device Description:         Zespó³ g³ówny PCI Express
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                pci.inf
+IO Resources:               0x0000000000000000 - 0x0000000000000CF7
+                            0x0000000000000D00 - 0x000000000000FFFF
+Memory Resources:           0x00000000000A0000 - 0x00000000000BFFFF
+                            0x00000000000C0000 - 0x00000000000C3FFF
+                            0x00000000000C4000 - 0x00000000000C7FFF
+                            0x00000000000C8000 - 0x00000000000CBFFF
+                            0x00000000000CC000 - 0x00000000000CFFFF
+                            0x00000000000D0000 - 0x00000000000D3FFF
+                            0x00000000000D4000 - 0x00000000000D7FFF
+                            0x00000000000D8000 - 0x00000000000DBFFF
+                            0x00000000000DC000 - 0x00000000000DFFFF
+                            0x00000000000E0000 - 0x00000000000E3FFF
+                            0x00000000000E4000 - 0x00000000000E7FFF
+                            0x00000000000E8000 - 0x00000000000EBFFF
+                            0x00000000000EC000 - 0x00000000000EFFFF
+                            0x00000000000F0000 - 0x00000000000FFFFF
+                            0x0000000080000000 - 0x00000000FEAFFFFF
+
+Instance ID:                USB\VID_05AC&PID_8302\0000000000000000
+Device Description:         Apple Touch Bar
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          Apple Inc.
+Status:                     Started
+Driver Name:                oem57.inf
+
+Instance ID:                HID\VID_05AC&PID_0340&MI_01&Col01\8&1c659d2e&0&0000
+Device Description:         Urz¹dzenie klawiatury HID
+Class Name:                 Keyboard
+Class GUID:                 {4d36e96b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Klawiatury standardowe)
+Status:                     Started
+Driver Name:                keyboard.inf
+
+Instance ID:                HID\VID_05AC&PID_0340&MI_02&Col03\8&4a210e9&0&0002
+Device Description:         Microsoft Input Configuration Device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                mtconfig.inf
+
+Instance ID:                HID\VID_046D&PID_C092&MI_00\7&e152d0b&0&0000
+Device Description:         Mysz zgodna z HID
+Class Name:                 Mouse
+Class GUID:                 {4d36e96f-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                msmouse.inf
+
+Instance ID:                USB\VID_05AC&PID_8102&MI_01\7&1eb4fb73&0&0001
+Device Description:         Urz¹dzenie wejœciowe USB
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                PCI\VEN_106B&DEV_1803&SUBSYS_1887106B&REV_01\4&3ac8fc3&0&03D8
+Device Description:         Apple Audio Device
+Class Name:                 MEDIA
+Class GUID:                 {4d36e96c-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Started
+Driver Name:                oem49.inf
+Extension Driver Names:     oem11.inf
+IRQ Resources:              0xFFFFFFD2 (-46)
+Memory Resources:           0x00000000C1000000 - 0x00000000C13FFFFF
+                            0x00000000C1680000 - 0x00000000C16FFFFF
+                            0x00000000C1670000 - 0x00000000C167FFFF
+
+Instance ID:                SWD\MMDEVAPI\{0.0.1.00000000}.{1676cc13-1b8c-45be-8b2e-9a38740fe51e}
+Device Description:         Internal Digital Microphone (Apple Audio Device)
+Class Name:                 AudioEndpoint
+Class GUID:                 {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                audioendpoint.inf
+
+Instance ID:                USB\VID_05AC&PID_8514&MI_00\7&ea4f279&0&0000
+Device Description:         FaceTime HD Camera (Built-in)
+Class Name:                 Camera
+Class GUID:                 {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                usbvideo.inf
+
+Instance ID:                ACPI\APP9876\3&11583659&0
+Device Description:         System Device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Stopped
+Driver Name:                oem76.inf
+Memory Resources:           0x00000000FE000000 - 0x00000000FE00FFFF
+
+Instance ID:                USB\VID_05AC&PID_0340&MI_02\7&383bfd12&0&0002
+Device Description:         Apple USB Precision Trackpad
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          Apple
+Status:                     Started
+Driver Name:                oem59.inf
+
+Instance ID:                HID\VID_05AC&PID_0340&MI_02&Col02\8&4a210e9&0&0001
+Device Description:         P³ytka dotykowa zgodna z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                BTHENUM\{00001116-0000-1000-8000-00805f9b34fb}_VID&0001004c_PID&7406\7&200747e8&0&84AB1AE027B7_C00000000
+Device Description:         Us³uga ochrony dostêpu do sieci osobistej
+Class Name:                 Bluetooth
+Class GUID:                 {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                bth.inf
+
+Instance ID:                PCI\VEN_8086&DEV_A324&SUBSYS_72708086&REV_10\3&11583659&0&FD
+Device Description:         Intel(R) SPI (flash) Controller - A324
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          INTEL
+Status:                     Stopped
+Driver Name:                oem1.inf
+Memory Resources:           0x00000000FE010000 - 0x00000000FE010FFF
+
+Instance ID:                PCI\VEN_106B&DEV_1802&SUBSYS_1802106B&REV_01\4&3ac8fc3&0&02D8
+Device Description:         System Device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Stopped
+Driver Name:                oem76.inf
+Memory Resources:           0x00000000C0C00000 - 0x00000000C0FFFFFF
+                            0x00000000C1500000 - 0x00000000C157FFFF
+                            0x00000000C1620000 - 0x00000000C162FFFF
+
+Instance ID:                ACPI\INT34BA\3&11583659&0
+Device Description:         System Device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Stopped
+Driver Name:                oem76.inf
+IRQ Resources:              0x00000022 (34)
+Memory Resources:           0x00000000FE036000 - 0x00000000FE036FFF
+
+Instance ID:                ACPI\PNP0C0C\2&daba3ff&0
+Device Description:         Przycisk zasilania ACPI
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                ACPI_HAL\PNP0C08\0
+Device Description:         System zgodny ze standardem Microsoft ACPI
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                acpi.inf
+IRQ Resources:              0x00000037 (55)
+                            0x00000038 (56)
+                            0x00000039 (57)
+                            0x0000003A (58)
+                            0x0000003B (59)
+                            0x0000003C (60)
+                            0x0000003D (61)
+                            0x0000003E (62)
+                            0x0000003F (63)
+                            0x00000040 (64)
+                            0x00000041 (65)
+                            0x00000042 (66)
+                            0x00000043 (67)
+                            0x00000044 (68)
+                            0x00000045 (69)
+                            0x00000046 (70)
+                            0x00000047 (71)
+                            0x00000048 (72)
+                            0x00000049 (73)
+                            0x0000004A (74)
+                            0x0000004B (75)
+                            0x0000004C (76)
+                            0x0000004D (77)
+                            0x0000004E (78)
+                            0x0000004F (79)
+                            0x00000050 (80)
+                            0x00000051 (81)
+                            0x00000052 (82)
+                            0x00000053 (83)
+                            0x00000054 (84)
+                            0x00000055 (85)
+                            0x00000056 (86)
+                            0x00000057 (87)
+                            0x00000058 (88)
+                            0x00000059 (89)
+                            0x0000005A (90)
+                            0x0000005B (91)
+                            0x0000005C (92)
+                            0x0000005D (93)
+                            0x0000005E (94)
+                            0x0000005F (95)
+                            0x00000060 (96)
+                            0x00000061 (97)
+                            0x00000062 (98)
+                            0x00000063 (99)
+                            0x00000064 (100)
+                            0x00000065 (101)
+                            0x00000066 (102)
+                            0x00000067 (103)
+                            0x00000068 (104)
+                            0x00000069 (105)
+                            0x0000006A (106)
+                            0x0000006B (107)
+                            0x0000006C (108)
+                            0x0000006D (109)
+                            0x0000006E (110)
+                            0x0000006F (111)
+                            0x00000070 (112)
+                            0x00000071 (113)
+                            0x00000072 (114)
+                            0x00000073 (115)
+                            0x00000074 (116)
+                            0x00000075 (117)
+                            0x00000076 (118)
+                            0x00000077 (119)
+                            0x00000078 (120)
+                            0x00000079 (121)
+                            0x0000007A (122)
+                            0x0000007B (123)
+                            0x0000007C (124)
+                            0x0000007D (125)
+                            0x0000007E (126)
+                            0x0000007F (127)
+                            0x00000080 (128)
+                            0x00000081 (129)
+                            0x00000082 (130)
+                            0x00000083 (131)
+                            0x00000084 (132)
+                            0x00000085 (133)
+                            0x00000086 (134)
+                            0x00000087 (135)
+                            0x00000088 (136)
+                            0x00000089 (137)
+                            0x0000008A (138)
+                            0x0000008B (139)
+                            0x0000008C (140)
+                            0x0000008D (141)
+                            0x0000008E (142)
+                            0x0000008F (143)
+                            0x00000090 (144)
+                            0x00000091 (145)
+                            0x00000092 (146)
+                            0x00000093 (147)
+                            0x00000094 (148)
+                            0x00000095 (149)
+                            0x00000096 (150)
+                            0x00000097 (151)
+                            0x00000098 (152)
+                            0x00000099 (153)
+                            0x0000009A (154)
+                            0x0000009B (155)
+                            0x0000009C (156)
+                            0x0000009D (157)
+                            0x0000009E (158)
+                            0x0000009F (159)
+                            0x000000A0 (160)
+                            0x000000A1 (161)
+                            0x000000A2 (162)
+                            0x000000A3 (163)
+                            0x000000A4 (164)
+                            0x000000A5 (165)
+                            0x000000A6 (166)
+                            0x000000A7 (167)
+                            0x000000A8 (168)
+                            0x000000A9 (169)
+                            0x000000AA (170)
+                            0x000000AB (171)
+                            0x000000AC (172)
+                            0x000000AD (173)
+                            0x000000AE (174)
+                            0x000000AF (175)
+                            0x000000B0 (176)
+                            0x000000B1 (177)
+                            0x000000B2 (178)
+                            0x000000B3 (179)
+                            0x000000B4 (180)
+                            0x000000B5 (181)
+                            0x000000B6 (182)
+                            0x000000B7 (183)
+                            0x000000B8 (184)
+                            0x000000B9 (185)
+                            0x000000BA (186)
+                            0x000000BB (187)
+                            0x000000BC (188)
+                            0x000000BD (189)
+                            0x000000BE (190)
+                            0x000000BF (191)
+                            0x000000C0 (192)
+                            0x000000C1 (193)
+                            0x000000C2 (194)
+                            0x000000C3 (195)
+                            0x000000C4 (196)
+                            0x000000C5 (197)
+                            0x000000C6 (198)
+                            0x000000C7 (199)
+                            0x000000C8 (200)
+                            0x000000C9 (201)
+                            0x000000CA (202)
+                            0x000000CB (203)
+                            0x000000CC (204)
+                            0x00000100 (256)
+                            0x00000101 (257)
+                            0x00000102 (258)
+                            0x00000103 (259)
+                            0x00000104 (260)
+                            0x00000105 (261)
+                            0x00000106 (262)
+                            0x00000107 (263)
+                            0x00000108 (264)
+                            0x00000109 (265)
+                            0x0000010A (266)
+                            0x0000010B (267)
+                            0x0000010C (268)
+                            0x0000010D (269)
+                            0x0000010E (270)
+                            0x0000010F (271)
+                            0x00000110 (272)
+                            0x00000111 (273)
+                            0x00000112 (274)
+                            0x00000113 (275)
+                            0x00000114 (276)
+                            0x00000115 (277)
+                            0x00000116 (278)
+                            0x00000117 (279)
+                            0x00000118 (280)
+                            0x00000119 (281)
+                            0x0000011A (282)
+                            0x0000011B (283)
+                            0x0000011C (284)
+                            0x0000011D (285)
+                            0x0000011E (286)
+                            0x0000011F (287)
+                            0x00000120 (288)
+                            0x00000121 (289)
+                            0x00000122 (290)
+                            0x00000123 (291)
+                            0x00000124 (292)
+                            0x00000125 (293)
+                            0x00000126 (294)
+                            0x00000127 (295)
+                            0x00000128 (296)
+                            0x00000129 (297)
+                            0x0000012A (298)
+                            0x0000012B (299)
+                            0x0000012C (300)
+                            0x0000012D (301)
+                            0x0000012E (302)
+                            0x0000012F (303)
+                            0x00000130 (304)
+                            0x00000131 (305)
+                            0x00000132 (306)
+                            0x00000133 (307)
+                            0x00000134 (308)
+                            0x00000135 (309)
+                            0x00000136 (310)
+                            0x00000137 (311)
+                            0x00000138 (312)
+                            0x00000139 (313)
+                            0x0000013A (314)
+                            0x0000013B (315)
+                            0x0000013C (316)
+                            0x0000013D (317)
+                            0x0000013E (318)
+                            0x0000013F (319)
+                            0x00000140 (320)
+                            0x00000141 (321)
+                            0x00000142 (322)
+                            0x00000143 (323)
+                            0x00000144 (324)
+                            0x00000145 (325)
+                            0x00000146 (326)
+                            0x00000147 (327)
+                            0x00000148 (328)
+                            0x00000149 (329)
+                            0x0000014A (330)
+                            0x0000014B (331)
+                            0x0000014C (332)
+                            0x0000014D (333)
+                            0x0000014E (334)
+                            0x0000014F (335)
+                            0x00000150 (336)
+                            0x00000151 (337)
+                            0x00000152 (338)
+                            0x00000153 (339)
+                            0x00000154 (340)
+                            0x00000155 (341)
+                            0x00000156 (342)
+                            0x00000157 (343)
+                            0x00000158 (344)
+                            0x00000159 (345)
+                            0x0000015A (346)
+                            0x0000015B (347)
+                            0x0000015C (348)
+                            0x0000015D (349)
+                            0x0000015E (350)
+                            0x0000015F (351)
+                            0x00000160 (352)
+                            0x00000161 (353)
+                            0x00000162 (354)
+                            0x00000163 (355)
+                            0x00000164 (356)
+                            0x00000165 (357)
+                            0x00000166 (358)
+                            0x00000167 (359)
+                            0x00000168 (360)
+                            0x00000169 (361)
+                            0x0000016A (362)
+                            0x0000016B (363)
+                            0x0000016C (364)
+                            0x0000016D (365)
+                            0x0000016E (366)
+                            0x0000016F (367)
+                            0x00000170 (368)
+                            0x00000171 (369)
+                            0x00000172 (370)
+                            0x00000173 (371)
+                            0x00000174 (372)
+                            0x00000175 (373)
+                            0x00000176 (374)
+                            0x00000177 (375)
+                            0x00000178 (376)
+                            0x00000179 (377)
+                            0x0000017A (378)
+                            0x0000017B (379)
+                            0x0000017C (380)
+                            0x0000017D (381)
+                            0x0000017E (382)
+                            0x0000017F (383)
+                            0x00000180 (384)
+                            0x00000181 (385)
+                            0x00000182 (386)
+                            0x00000183 (387)
+                            0x00000184 (388)
+                            0x00000185 (389)
+                            0x00000186 (390)
+                            0x00000187 (391)
+                            0x00000188 (392)
+                            0x00000189 (393)
+                            0x0000018A (394)
+                            0x0000018B (395)
+                            0x0000018C (396)
+                            0x0000018D (397)
+                            0x0000018E (398)
+                            0x0000018F (399)
+                            0x00000190 (400)
+                            0x00000191 (401)
+                            0x00000192 (402)
+                            0x00000193 (403)
+                            0x00000194 (404)
+                            0x00000195 (405)
+                            0x00000196 (406)
+                            0x00000197 (407)
+                            0x00000198 (408)
+                            0x00000199 (409)
+                            0x0000019A (410)
+                            0x0000019B (411)
+                            0x0000019C (412)
+                            0x0000019D (413)
+                            0x0000019E (414)
+                            0x0000019F (415)
+                            0x000001A0 (416)
+                            0x000001A1 (417)
+                            0x000001A2 (418)
+                            0x000001A3 (419)
+                            0x000001A4 (420)
+                            0x000001A5 (421)
+                            0x000001A6 (422)
+                            0x000001A7 (423)
+                            0x000001A8 (424)
+                            0x000001A9 (425)
+                            0x000001AA (426)
+                            0x000001AB (427)
+                            0x000001AC (428)
+                            0x000001AD (429)
+                            0x000001AE (430)
+                            0x000001AF (431)
+                            0x000001B0 (432)
+                            0x000001B1 (433)
+                            0x000001B2 (434)
+                            0x000001B3 (435)
+                            0x000001B4 (436)
+                            0x000001B5 (437)
+                            0x000001B6 (438)
+                            0x000001B7 (439)
+                            0x000001B8 (440)
+                            0x000001B9 (441)
+                            0x000001BA (442)
+                            0x000001BB (443)
+                            0x000001BC (444)
+                            0x000001BD (445)
+                            0x000001BE (446)
+                            0x000001BF (447)
+                            0x000001C0 (448)
+                            0x000001C1 (449)
+                            0x000001C2 (450)
+                            0x000001C3 (451)
+                            0x000001C4 (452)
+                            0x000001C5 (453)
+                            0x000001C6 (454)
+                            0x000001C7 (455)
+                            0x000001C8 (456)
+                            0x000001C9 (457)
+                            0x000001CA (458)
+                            0x000001CB (459)
+                            0x000001CC (460)
+                            0x000001CD (461)
+                            0x000001CE (462)
+                            0x000001CF (463)
+                            0x000001D0 (464)
+                            0x000001D1 (465)
+                            0x000001D2 (466)
+                            0x000001D3 (467)
+                            0x000001D4 (468)
+                            0x000001D5 (469)
+                            0x000001D6 (470)
+                            0x000001D7 (471)
+                            0x000001D8 (472)
+                            0x000001D9 (473)
+                            0x000001DA (474)
+                            0x000001DB (475)
+                            0x000001DC (476)
+                            0x000001DD (477)
+                            0x000001DE (478)
+                            0x000001DF (479)
+                            0x000001E0 (480)
+                            0x000001E1 (481)
+                            0x000001E2 (482)
+                            0x000001E3 (483)
+                            0x000001E4 (484)
+                            0x000001E5 (485)
+                            0x000001E6 (486)
+                            0x000001E7 (487)
+                            0x000001E8 (488)
+                            0x000001E9 (489)
+                            0x000001EA (490)
+                            0x000001EB (491)
+                            0x000001EC (492)
+                            0x000001ED (493)
+                            0x000001EE (494)
+                            0x000001EF (495)
+                            0x000001F0 (496)
+                            0x000001F1 (497)
+                            0x000001F2 (498)
+                            0x000001F3 (499)
+                            0x000001F4 (500)
+                            0x000001F5 (501)
+                            0x000001F6 (502)
+                            0x000001F7 (503)
+                            0x000001F8 (504)
+                            0x000001F9 (505)
+                            0x000001FA (506)
+                            0x000001FB (507)
+                            0x000001FC (508)
+                            0x000001FD (509)
+                            0x000001FE (510)
+                            0x000001FF (511)
+
+Instance ID:                HTREE\ROOT\0
+Device Description:         Unknown
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Started
+
+Instance ID:                HID\VID_05AC&PID_0340&MI_02&Col01\8&4a210e9&0&0000
+Device Description:         Mysz zgodna z HID
+Class Name:                 Mouse
+Class GUID:                 {4d36e96f-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                msmouse.inf
+
+Instance ID:                ROOT\BasicRender\0000
+Device Description:         Podstawowy sterownik renderowania firmy Microsoft
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                basicrender.inf
+
+Instance ID:                HID\VID_05AC&PID_8302&Col01\7&2c2a3111&0&0000
+Device Description:         Urz¹dzenie klawiatury HID
+Class Name:                 Keyboard
+Class GUID:                 {4d36e96b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Klawiatury standardowe)
+Status:                     Started
+Driver Name:                keyboard.inf
+
+Instance ID:                USB\ROOT_HUB30\4&1af88e2f&0&0
+Device Description:         G³ówny koncentrator USB (USB 3.0)
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standardowe koncentratory USB)
+Status:                     Started
+Driver Name:                usbhub3.inf
+
+Instance ID:                ACPI\ACPI000E\4&e914ef6&0
+Device Description:         Alarm wznawiania ACPI
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                acpitime.inf
+
+Instance ID:                BTHENUM\{0000110a-0000-1000-8000-00805f9b34fb}_VID&0001004c_PID&7406\7&200747e8&0&84AB1AE027B7_C00000000
+Device Description:         iPhone (Maciej Tomczak) A2DP SNK
+Class Name:                 MEDIA
+Class GUID:                 {4d36e96c-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                microsoft_bluetooth_a2dp_snk.inf
+
+Instance ID:                PCI\VEN_8086&DEV_15EA&SUBSYS_00008086&REV_06\9156D489E800AA0000
+Device Description:         Port prze³¹cznika transmisji do klienta PCI Express
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                pci.inf
+Memory Resources:           0x0000000081900000 - 0x00000000819FFFFF
+
+Instance ID:                PCI\VEN_8086&DEV_15EA&SUBSYS_00008086&REV_06\9156D489E800AA0008
+Device Description:         Port prze³¹cznika transmisji do klienta PCI Express
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                pci.inf
+IRQ Resources:              0xFFFFFFE4 (-28)
+Memory Resources:           0x0000000088A00000 - 0x000000008F9FFFFF
+                            0x00000000C8700000 - 0x00000000CF6FFFFF
+
+Instance ID:                PCI\VEN_8086&DEV_15EA&SUBSYS_00008086&REV_06\9156D489E800AA0010
+Device Description:         Port prze³¹cznika transmisji do klienta PCI Express
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                pci.inf
+Memory Resources:           0x0000000081800000 - 0x00000000818FFFFF
+
+Instance ID:                PCI\VEN_8086&DEV_15EA&SUBSYS_00008086&REV_06\9156D489E800AA0020
+Device Description:         Port prze³¹cznika transmisji do klienta PCI Express
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                pci.inf
+IRQ Resources:              0xFFFFFFE3 (-29)
+Memory Resources:           0x0000000081A00000 - 0x00000000889FFFFF
+                            0x00000000C1700000 - 0x00000000C86FFFFF
+
+Instance ID:                USB\ROOT_HUB30\5&2396db45&0&0
+Device Description:         G³ówny koncentrator USB (USB 3.0)
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standardowe koncentratory USB)
+Status:                     Started
+Driver Name:                usbhub3.inf
+
+Instance ID:                ACPI\APP000B\4&e914ef6&0
+Device Description:         Apple graphics mux
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Stopped
+Driver Name:                oem76.inf
+Memory Resources:           0x00000000FE0B0200 - 0x00000000FE0B0207
+
+Instance ID:                ACPI\PNP0100\4&e914ef6&0
+Device Description:         Czasomierz systemowy
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Stopped
+Driver Name:                machine.inf
+IO Resources:               0x0000000000000040 - 0x0000000000000043
+                            0x0000000000000050 - 0x0000000000000053
+
+Instance ID:                VHF\HID_DEVICE_SYSTEM_VHF\6&92d0d36&0&206D37505546_Slot00
+Device Description:         Urz¹dzenie HID wirtualnej struktury HID (VHF)
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                hidvhf.inf
+
+Instance ID:                ACPI\FixedButton\2&daba3ff&0
+Device Description:         Przycisk ACPI Fixed Feature
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                machine.inf
+
+Instance ID:                PCI\VEN_8086&DEV_15EA&SUBSYS_00008086&REV_06\U9156D489E800AA0000
+Device Description:         Port prze³¹cznika transmisji od klienta PCI Express
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                pci.inf
+Memory Resources:           0x0000000081800000 - 0x000000008F9FFFFF
+                            0x00000000C1700000 - 0x00000000CF6FFFFF
+
+Instance ID:                BTH\MS_BTHBRB\6&2f7a9130&0&1
+Device Description:         Modu³ wyliczaj¹cy Bluetooth firmy Microsoft
+Class Name:                 Bluetooth
+Class GUID:                 {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                bth.inf
+
+Instance ID:                ACPI\INT0800\4&e914ef6&0
+Device Description:         Starsze urz¹dzenie
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Intel
+Status:                     Stopped
+Driver Name:                machine.inf
+Memory Resources:           0x00000000FF000000 - 0x00000000FFFFFFFF
+
+Instance ID:                BCMBTBUS\BLUETOOTH\5&1c9f92e2&0&4097
+Device Description:         Urz¹dzenie radiowe Bluetooth
+Class Name:                 Bluetooth
+Class GUID:                 {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                bth.inf
+
+Instance ID:                HID\VID_05AC&PID_8102&MI_01\8&de046d7&0&0000
+Device Description:         Urz¹dzenie zdefiniowane przez dostawcê zgodne z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                PCI\VEN_8086&DEV_3EC4&SUBSYS_72708086&REV_07\3&11583659&0&00
+Device Description:         Intel(R) Host Bridge/DRAM Registers - 3EC4
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          INTEL
+Status:                     Started
+Driver Name:                oem62.inf
+
+Instance ID:                PCI\VEN_8086&DEV_A360&SUBSYS_72708086&REV_10\3&11583659&0&B0
+Device Description:         Intel(R) Management Engine Interface #1
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Intel
+Status:                     Disabled
+Driver Name:                oem22.inf
+
+Instance ID:                ROOT\MacHalDriver\1000
+Device Description:         MacHalDriver Device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Started
+Driver Name:                oem31.inf
+
+Instance ID:                SCSI\Disk&Ven_Apple&Prod_APPLE_SSD_AP0512\5&199ec269&0&000000
+Device Description:         Apple APPLE SSD AP0512 SCSI Disk Device
+Class Name:                 DiskDrive
+Class GUID:                 {4d36e967-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe stacje dysków)
+Status:                     Started
+Driver Name:                disk.inf
+
+Instance ID:                BTHENUM\{00001132-0000-1000-8000-00805f9b34fb}_VID&0001004c_PID&7406\7&200747e8&0&84AB1AE027B7_C00000000
+Device Description:         MAP MAS-iOS
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Started
+
+Instance ID:                BTHENUM\{1ff31936-572e-4b36-a2bf-b2409b1aa6f4}_VID&0001004c_PID&7406\7&200747e8&0&84AB1AE027B7_C00000000
+Device Description:         AAP Client
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Started
+
+Instance ID:                HID\VID_05AC&PID_0340&MI_01&Col02\8&1c659d2e&0&0001
+Device Description:         Urz¹dzenie steruj¹ce u¿ytkownika zgodne z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                hidserv.inf
+
+Instance ID:                USB\VID_05AC&PID_0340\FM79457031HHYYLAJ+WDZ
+Device Description:         Urz¹dzenie kompozytowe USB
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standardowy kontroler hosta USB)
+Status:                     Started
+Driver Name:                usb.inf
+
+Instance ID:                BTH\MS_RFCOMM\6&2f7a9130&0&0
+Device Description:         Bluetooth Device (RFCOMM Protocol TDI)
+Class Name:                 Bluetooth
+Class GUID:                 {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                tdibth.inf
+
+Instance ID:                USB\VID_05AC&PID_8262\000000000000
+Device Description:         Urz¹dzenie wejœciowe USB
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                BTH\MS_BTHPAN\6&2f7a9130&0&2
+Device Description:         Bluetooth Device (Personal Area Network)
+Class Name:                 Net
+Class GUID:                 {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Disabled
+Driver Name:                bthpan.inf
+
+Instance ID:                USB\VID_05AC&PID_8103\000000000000
+Device Description:         Urz¹dzenie wejœciowe USB
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                BTHENUM\{0000110c-0000-1000-8000-00805f9b34fb}_VID&0001004c_PID&7406\7&200747e8&0&84AB1AE027B7_C00000000
+Device Description:         iPhone (Maciej Tomczak) Avrcp Transport
+Class Name:                 Bluetooth
+Class GUID:                 {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                microsoft_bluetooth_avrcptransport.inf
+
+Instance ID:                USB\VID_05AC&PID_0340&MI_03\7&383bfd12&0&0003
+Device Description:         Urz¹dzenie wejœciowe USB
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                SWD\MMDEVAPI\MicrosoftGSWavetableSynth
+Device Description:         Syntezator SW Microsoft GS Wavetable
+Class Name:                 SoftwareDevice
+Class GUID:                 {62f9c741-b25a-46ce-b54c-9bccce08b6f2}
+Manufacturer Name:          Microsoft
+Status:                     Disabled
+Driver Name:                c_swdevice.inf
+
+Instance ID:                USB\VID_1C4F&PID_0043&MI_00\6&235bad8d&0&0000
+Device Description:         Urz¹dzenie wejœciowe USB
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                BTHENUM\{0000111f-0000-1000-8000-00805f9b34fb}_HCIBYPASS_VID&0001004c_PID&7406\7&200747e8&0&84AB1AE027B7_C00000000
+Device Description:         iPhone (Maciej Tomczak) Hands-Free HF
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                microsoft_bluetooth_hfp_hf.inf
+
+Instance ID:                PCI\VEN_8086&DEV_A379&SUBSYS_72708086&REV_10\3&11583659&0&90
+Device Description:         Intel(R) Thermal Subsystem - A379
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          INTEL
+Status:                     Stopped
+Driver Name:                oem2.inf
+Memory Resources:           0x0000000081712000 - 0x0000000081712FFF
+
+Instance ID:                PCI\VEN_1002&DEV_AB38&SUBSYS_AB381002&REV_00\6&20fdcdfd&0&01000008
+Device Description:         High Definition Audio Bus
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          AMD
+Status:                     Started
+Driver Name:                oem40.inf
+IRQ Resources:              0x00000011 (17)
+Memory Resources:           0x00000000815FC000 - 0x00000000815FFFFF
+
+Instance ID:                HID\VID_05AC&PID_8302&Col02\7&2c2a3111&0&0001
+Device Description:         Urz¹dzenie steruj¹ce u¿ytkownika zgodne z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                hidserv.inf
+
+Instance ID:                ROOT\AMDLOG\0000
+Device Description:         AMD Crash Defender
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Advanced Micro Devices, Inc.
+Status:                     Started
+Driver Name:                oem39.inf
+
+Instance ID:                ROOT\NdisVirtualBus\0000
+Device Description:         Modu³ wyliczaj¹cy wirtualnej karty sieciowej NDIS
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                ndisvirtualbus.inf
+
+Instance ID:                SWD\MMDEVAPI\{0.0.0.00000000}.{a19d9fc1-42d4-48a6-a1c6-c1687b8d64c7}
+Device Description:         1 - DELL S2721QS (AMD High Definition Audio Device)
+Class Name:                 AudioEndpoint
+Class GUID:                 {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                audioendpoint.inf
+
+Instance ID:                USB\VID_05AC&PID_8233\0000000000000000
+Device Description:         NCM Composite Device
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Stopped
+Driver Name:                oem76.inf
+
+Instance ID:                SWD\PRINTENUM\WSD-1e737737-f627-401f-bce6-b7e64da1e848
+Device Description:         Microsoft IPP Class Driver
+Class Name:                 Printer
+Class GUID:                 {4d36e979-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                prnms012.inf
+
+Instance ID:                SWD\COMPUTER\MFG_Apple_Inc.&FAM_MacBook_Pro&PROD_MacBookPro16_1
+Device Description:         Apple Inc. MacBookPro16,1
+Class Name:                 Computer
+Class GUID:                 {4d36e966-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                compdev.inf
+Extension Driver Names:     VocaEffectPack-Extension.inf
+
+Instance ID:                PCI\VEN_106B&DEV_1801&SUBSYS_1801106B&REV_01\4&3ac8fc3&0&01D8
+Device Description:         Apple USB Virtual Host Controller
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Started
+Driver Name:                oem19.inf
+IRQ Resources:              0xFFFFFFF4 (-12)
+Memory Resources:           0x00000000C0800000 - 0x00000000C0BFFFFF
+                            0x00000000C1480000 - 0x00000000C14FFFFF
+                            0x00000000C1610000 - 0x00000000C161FFFF
+
+Instance ID:                BTHENUM\Dev_84AB1AE027B7\7&200747e8&0&BluetoothDevice_84AB1AE027B7
+Device Description:         iPhone (Maciej Tomczak)
+Class Name:                 Bluetooth
+Class GUID:                 {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                bth.inf
+
+Instance ID:                SWD\IPP\17a8cd2e-c532-5844-b49e-8a34b7a53d68
+Device Description:         HP_P1109w_bonjour
+Class Name:                 SoftwareDevice
+Class GUID:                 {62f9c741-b25a-46ce-b54c-9bccce08b6f2}
+Manufacturer Name:          Hewlett-Packard
+Status:                     Started
+Driver Name:                c_swdevice.inf
+
+Instance ID:                PCI\VEN_1002&DEV_1479&SUBSYS_14791002&REV_00\5&146f2686&2&000008
+Device Description:         AMD PCI Express Downstream Switch Port
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                pci.inf
+Extension Driver Names:     oem44.inf
+IO Resources:               0x0000000000003000 - 0x0000000000003FFF
+Memory Resources:           0x0000000081500000 - 0x00000000815FFFFF
+                            0x00000000B0000000 - 0x00000000C01FFFFF
+
+Instance ID:                BTHENUM\{0000110e-0000-1000-8000-00805f9b34fb}_VID&0001004c_PID&7406\7&200747e8&0&84AB1AE027B7_C00000000
+Device Description:         iPhone (Maciej Tomczak) Avrcp Transport
+Class Name:                 Bluetooth
+Class GUID:                 {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                microsoft_bluetooth_avrcptransport.inf
+
+Instance ID:                PCI\VEN_8086&DEV_A36F&SUBSYS_00000000&REV_10\3&11583659&0&A2
+Device Description:         Standardowy kontroler RAM PCI
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Stopped
+Driver Name:                machine.inf
+
+Instance ID:                BTHENUM\{00000000-deca-fade-deca-deafdecacafe}_VID&0001004c_PID&7406\7&200747e8&0&84AB1AE027B7_C00000000
+Device Description:         Wireless iAP
+Class Name:                 Unknown
+Class GUID:                 Unknown
+Manufacturer Name:          Unknown
+Status:                     Started
+
+Instance ID:                USB\ROOT_HUB30\7&17382c9&0&0
+Device Description:         G³ówny koncentrator USB (USB 3.0)
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standardowe koncentratory USB)
+Status:                     Started
+Driver Name:                usbhub3.inf
+
+Instance ID:                USB\VID_1C4F&PID_0043\5&eaaa4c&0&3
+Device Description:         Urz¹dzenie kompozytowe USB
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standardowy kontroler hosta USB)
+Status:                     Started
+Driver Name:                usb.inf
+
+Instance ID:                ACPI\APP0002\f
+Device Description:         Apple panel backlight
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Stopped
+Driver Name:                oem76.inf
+
+Instance ID:                BTHENUM\{0000112f-0000-1000-8000-00805f9b34fb}_VID&0001004c_PID&7406\7&200747e8&0&84AB1AE027B7_C00000000
+Device Description:         Us³uga PSE dostêpu do ksi¹¿ki telefonicznej
+Class Name:                 Bluetooth
+Class GUID:                 {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                bth.inf
+
+Instance ID:                HID\VID_05AC&PID_0340&MI_03\8&24b65340&0&0000
+Device Description:         Urz¹dzenie zdefiniowane przez dostawcê zgodne z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                ROOT\mssmbios\0000
+Device Description:         Sterownik BIOS zarz¹dzania systemem firmy Microsoft
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                mssmbios.inf
+
+Instance ID:                HID\VID_05AC&PID_8103\7&25ad93c8&0&0000
+Device Description:         Urz¹dzenie steruj¹ce u¿ytkownika zgodne z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                hidserv.inf
+
+Instance ID:                STORAGE\Volume\{071ab7b3-7923-11f1-9527-806e6f6e6963}#0000000012C06000
+Device Description:         Wolumin
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                PCI\VEN_8086&DEV_A323&SUBSYS_72708086&REV_10\3&11583659&0&FC
+Device Description:         Intel(R) SMBus - A323
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          INTEL
+Status:                     Stopped
+Driver Name:                oem1.inf
+IO Resources:               0x0000000000004040 - 0x000000000000405F
+Memory Resources:           0x0000000081716000 - 0x00000000817160FF
+
+Instance ID:                HID\VID_1C4F&PID_0043&MI_01&Col01\7&1a0dba8f&0&0000
+Device Description:         Urz¹dzenie steruj¹ce u¿ytkownika zgodne z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                hidserv.inf
+
+Instance ID:                PCI\VEN_106B&DEV_2005&SUBSYS_1800106B&REV_01\4&3ac8fc3&0&00D8
+Device Description:         Apple Solid State Drive Device
+Class Name:                 SCSIAdapter
+Class GUID:                 {4d36e97b-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Apple Inc.
+Status:                     Started
+Driver Name:                oem21.inf
+IRQ Resources:              0xFFFFFFF5 (-11)
+Memory Resources:           0x00000000C0400000 - 0x00000000C07FFFFF
+                            0x00000000C1400000 - 0x00000000C147FFFF
+                            0x00000000C1600000 - 0x00000000C160FFFF
+
+Instance ID:                ACPI\PNP0200\4&e914ef6&0
+Device Description:         Kontroler bezpoœredniego dostêpu do pamiêci
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Stopped
+Driver Name:                machine.inf
+DMA Resources:              0x04
+IO Resources:               0x0000000000000000 - 0x000000000000001F
+                            0x0000000000000081 - 0x0000000000000091
+                            0x0000000000000093 - 0x000000000000009F
+                            0x00000000000000C0 - 0x00000000000000DF
+
+Instance ID:                USB\VID_05AC&PID_0340&MI_04\7&383bfd12&0&0004
+Device Description:         Urz¹dzenie wejœciowe USB
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                ROOT\SYSTEM\0000
+Device Description:         Aplikacja zbieraj¹ca informacje o oprogramowaniu urz¹dzeñ Plug and Play
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                swenum.inf
+
+Instance ID:                DISPLAY\APPA044\7&e17513f&5&UID256
+Device Description:         Integrated Monitor (Color LCD)
+Class Name:                 Monitor
+Class GUID:                 {4d36e96e-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standardowe typy monitorów)
+Status:                     Started
+Driver Name:                monitor.inf
+
+Instance ID:                USB\VID_1C4F&PID_0043&MI_01\6&235bad8d&0&0001
+Device Description:         Urz¹dzenie wejœciowe USB
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
+Instance ID:                STORAGE\Volume\{071ab7b3-7923-11f1-9527-806e6f6e6963}#0000000000006000
+Device Description:         Wolumin
+Class Name:                 Volume
+Class GUID:                 {71a27cdd-812a-11d0-bec7-08002be2092f}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                volume.inf
+
+Instance ID:                ROOT\RDPBUS\0000
+Device Description:         Magistrala readresatora urz¹dzeñ us³ug pulpitu zdalnego
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                rdpbus.inf
+
+Instance ID:                USB\VID_05AC&PID_8102\0000000000000000
+Device Description:         Urz¹dzenie kompozytowe USB
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standardowy kontroler hosta USB)
+Status:                     Started
+Driver Name:                usb.inf
+
+Instance ID:                SWD\MMDEVAPI\{0.0.0.00000000}.{7e43bb0b-f590-47b0-aa43-dcfd90369ddc}
+Device Description:         G³oœniki (Apple Audio Device)
+Class Name:                 AudioEndpoint
+Class GUID:                 {c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+Manufacturer Name:          Microsoft
+Status:                     Started
+Driver Name:                audioendpoint.inf
+
+Instance ID:                PCI\VEN_8086&DEV_1901&SUBSYS_72708086&REV_07\3&11583659&0&08
+Device Description:         Intel(R) Xeon(R) E3 - 1200/1500 v5/6th Gen Intel(R) Core(TM) PCIe Controller (x16) - 1901
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          INTEL
+Status:                     Started
+Driver Name:                oem60.inf
+IO Resources:               0x0000000000003000 - 0x0000000000003FFF
+IRQ Resources:              0xFFFFFFFE (-2)
+Memory Resources:           0x0000000081500000 - 0x00000000816FFFFF
+                            0x00000000B0000000 - 0x00000000C01FFFFF
+
+Instance ID:                ACPI\BCM2E7C\1
+Device Description:         Broadcom Serial Bus Driver over UART Bus Enumerator
+Class Name:                 System
+Class GUID:                 {4d36e97d-e325-11ce-bfc1-08002be10318}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                oem20.inf
+
+Instance ID:                HID\VID_05AC&PID_8102&MI_00\8&25a3d31c&0&0000
+Device Description:         Urz¹dzenie zdefiniowane przez dostawcê zgodne z HID
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standardowe urz¹dzenia systemowe)
+Status:                     Started
+Driver Name:                input.inf
+
