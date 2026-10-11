@@ -1,0 +1,35 @@
+t2gmux ReBAR diagnostic (read-only, nothing is written to PCI or ACPI)
+MCFG: ECAM base E0000000, buses 00-F1
+PCI devices seen: 38
+
+[AMD display device] 03:00.0  1002:7340  subsys 020F106B  class 030000
+    command/status 00100007
+    BAR0-5 raw: B000000C 00000000 C000000C 00000000 00003001 81500000
+    extended config via PciIo
+    extended config space: readable, first header 1501000B
+    extended capabilities: 000B@100 0001@150 0015@200 0004@240 0019@270 000D@2A0 000F@2B0 0013@2C0 001B@2D0 0018@320 0025@400 0026@410 0027@440
+    Resizable BAR capability (0015) at 200, entries 2
+      BAR0: cap 0001F000 ctl 00000840, current 256M, max 4G, sizes: 256M 512M 1G 2G 4G
+      BAR2: cap 00001FE0 ctl 00000102, current 2M, max 256M, sizes: 2M 4M 8M 16M 32M 64M 128M 256M
+
+[Bridges on the path]
+  00:01.0  8086:1901
+    buses pri/sec/sub 00/01/03
+    memory window       81500000 - 816FFFFF
+    prefetchable window 00000000B0000000 - 00000000C01FFFFF  (64-bit capable)
+  01:00.0  1002:1478
+    buses pri/sec/sub 01/02/03
+    memory window       81500000 - 815FFFFF
+    prefetchable window 00000000B0000000 - 00000000C01FFFFF  (64-bit capable)
+  02:00.0  1002:1479
+    buses pri/sec/sub 02/03/03
+    memory window       81500000 - 815FFFFF
+    prefetchable window 00000000B0000000 - 00000000C01FFFFF  (64-bit capable)
+
+[Root bridge 64-bit window in firmware NVS]
+  OperationRegion SANV at 7AF3DC98 length 01F4
+  M64B (+218) = 0000004000000000
+  M64L (+226) = 0000004000000000   -> a 64-bit window is offered
+  M32B = 80000000  M32L = 60000000
+
+end of report
